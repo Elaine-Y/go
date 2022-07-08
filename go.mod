@@ -1,3 +1,3 @@
-module github.com/Elaine-Y/go/greetings
+module github.com/Elaine-Y/go/tree/main/greetings
 
 go 1.18
